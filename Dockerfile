@@ -1,4 +1,4 @@
-FROM circleci/python:3.7.0-node
+FROM circleci/python:3.7.3-node
 
 RUN pip install awscli --upgrade --user
 
