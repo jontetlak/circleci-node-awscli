@@ -1,6 +1,6 @@
 A docker image for Circle CI 2.0 that includes:
 
-- Node 8.12.0
+- Node 10.15.3
 - Docker, Docker Compose
 - AWS CLI
 
